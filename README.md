@@ -6,6 +6,8 @@ Instructions:
   - What is this program trying to do?
   - Will it succeed?
 * Compile and run deadlocks.c.
+  - Is this what you predicted?
+  - Why or why not?
 * Uncomment line 16 and re-compile/re-run.
   - What changed, and why?
 * Inspect the code in deadlocks-check.c.
