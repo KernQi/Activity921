@@ -1,3 +1,7 @@
+deadlock
+check
+timeout
+
 # Prerequisites
 *.d
 
